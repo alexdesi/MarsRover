@@ -1,0 +1,12 @@
+/Users/alessandro/prj/Rover/Rover/obj/Debug/Rover.csprojAssemblyReference.cache
+/Users/alessandro/prj/Rover/Rover/obj/Debug/Rover.csproj.CoreCompileInputs.cache
+/Users/alessandro/prj/Rover/Rover/bin/Debug/Rover.dll
+/Users/alessandro/prj/Rover/Rover/bin/Debug/Rover.pdb
+/Users/alessandro/prj/Rover/Rover/bin/Debug/FluentAssertions.dll
+/Users/alessandro/prj/Rover/Rover/bin/Debug/nunit.framework.dll
+/Users/alessandro/prj/Rover/Rover/bin/Debug/FluentAssertions.pdb
+/Users/alessandro/prj/Rover/Rover/bin/Debug/FluentAssertions.xml
+/Users/alessandro/prj/Rover/Rover/bin/Debug/nunit.framework.xml
+/Users/alessandro/prj/Rover/Rover/obj/Debug/Rover.csproj.CopyComplete
+/Users/alessandro/prj/Rover/Rover/obj/Debug/Rover.dll
+/Users/alessandro/prj/Rover/Rover/obj/Debug/Rover.pdb

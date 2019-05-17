@@ -1,0 +1,14 @@
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/Rover.Tests.dll
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/Rover.Tests.pdb
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/nunit.framework.dll
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/nunit.framework.xml
+/Users/alessandro/prj/Rover/Rover.Tests/obj/Debug/Rover.Tests.csprojAssemblyReference.cache
+/Users/alessandro/prj/Rover/Rover.Tests/obj/Debug/Rover.Tests.csproj.CoreCompileInputs.cache
+/Users/alessandro/prj/Rover/Rover.Tests/obj/Debug/Rover.Tests.csproj.CopyComplete
+/Users/alessandro/prj/Rover/Rover.Tests/obj/Debug/Rover.Tests.dll
+/Users/alessandro/prj/Rover/Rover.Tests/obj/Debug/Rover.Tests.pdb
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/Rover.dll
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/Rover.pdb
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/FluentAssertions.dll
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/FluentAssertions.pdb
+/Users/alessandro/prj/Rover/Rover.Tests/bin/Debug/FluentAssertions.xml
